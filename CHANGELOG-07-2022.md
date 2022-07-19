@@ -8,7 +8,7 @@
 - Fix: Lỗi hiển thị sai tên người dùng khi đăng nhập trên nhaphonet
 - Fix: Giao diện trang không tồn tại có tìm kiếm và trực quan hơn
 - Fix: UI hiển thị số lượt xem trong ngày cho tin chính chủ
-- Fix: Share popup trên
+- Fix: Popup share
 
 **API**
 
